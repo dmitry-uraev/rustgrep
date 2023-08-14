@@ -1,0 +1,1 @@
+cargo run here resources/test.txt
